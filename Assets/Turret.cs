@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Turret : MonoBehaviour
 {
+    //
     public Transform player;
     public Transform firePoint;
     public GameObject bulletPrefab;
