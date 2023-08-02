@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 56f71b2ee3c60aa42a23adfbe307e626
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HackingSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceec6a00cb683c4aa7c7118b1e349bd
+      internalID: -1798009725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3920
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bec3dc3b2a1034ea39abaef2c60b75
+      internalID: -841356196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3920
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0628ecc378c8b41ab8195aa0690fef
+      internalID: -772981522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 3920
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac012962e1961640b997f14f6c118b3
+      internalID: -1191847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 3920
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5db843f7a9254eb70a6bc9f9530e9
+      internalID: -698792862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3136
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ed9c79dee2f74a853591586e50f5f
+      internalID: 1564705258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3136
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98df429770fceb34896eadcc4a64a0c8
+      internalID: -826106482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3136
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c9893028ae9540b45b69fb887e0ea
+      internalID: 1514286548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 3136
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f49f30956b09a84ba2648f2ca978229
+      internalID: -232851994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 3136
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d5fb5306a5eb43abfc4764c766014
+      internalID: 1414263187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fd40388ae1d314ca285b00f5a0d799
+      internalID: -13297934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2352
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56eb5001a8614a4abd3a22f8ecf4d2b
+      internalID: 131978657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2352
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2844d21bd2f79d740acc50658d98a4bf
+      internalID: 1353777975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 2352
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4f7747f11c12e438790e9fe0ae175e
+      internalID: -203956871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 2352
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb1e4bde45bcb4ba07a0c839b16bf1
+      internalID: 911911772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338d58e39e20f846ba08eaad2d21c1f
+      internalID: 785709105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1568
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172719a9b692a6e4d93f4da4c8abb62d
+      internalID: 1073276651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1568
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e34ac14a74dbd45b25fac3fa89c3b7
+      internalID: -37270353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1568
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1797de3fd6c6f384fb16527f59682e70
+      internalID: 300795638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 1568
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3957590209ad14c498713df67bb40be1
+      internalID: -228430787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b436b033120cb48a6cfd0ed30873f7
+      internalID: 337101048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 784
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b245ffa8bdaab644b5b4341717b161e
+      internalID: -1712602096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 784
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df32ec78754dc8d42806f8ae1c42b25d
+      internalID: -532549531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 784
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a47f2317d955468b7a4833a85c1c2
+      internalID: -4454565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 784
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8bc6b1f3929ff40afa94a3f8f13df2
+      internalID: 1698957515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953f0c3665c14714a88c976ffbd8cb0b
+      internalID: -709380570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb48748f9ab1746b423afdcfcad46a
+      internalID: 294029204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb9a4b488921c545ab0e047c276ec10
+      internalID: -71436122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec8e8f562b58541978bf71a04e2c4d
+      internalID: -1345077284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackingSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 0
+        width: 980
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89e70a20deff24aafdb00c782f5165
+      internalID: -1917614034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HackingSpriteSheet_0: -1798009725
+      HackingSpriteSheet_1: -841356196
+      HackingSpriteSheet_10: -13297934
+      HackingSpriteSheet_11: 131978657
+      HackingSpriteSheet_12: 1353777975
+      HackingSpriteSheet_13: -203956871
+      HackingSpriteSheet_14: 911911772
+      HackingSpriteSheet_15: 785709105
+      HackingSpriteSheet_16: 1073276651
+      HackingSpriteSheet_17: -37270353
+      HackingSpriteSheet_18: 300795638
+      HackingSpriteSheet_19: -228430787
+      HackingSpriteSheet_2: -772981522
+      HackingSpriteSheet_20: 337101048
+      HackingSpriteSheet_21: -1712602096
+      HackingSpriteSheet_22: -532549531
+      HackingSpriteSheet_23: -4454565
+      HackingSpriteSheet_24: 1698957515
+      HackingSpriteSheet_25: -709380570
+      HackingSpriteSheet_26: 294029204
+      HackingSpriteSheet_27: -71436122
+      HackingSpriteSheet_28: -1345077284
+      HackingSpriteSheet_29: -1917614034
+      HackingSpriteSheet_3: -1191847
+      HackingSpriteSheet_4: -698792862
+      HackingSpriteSheet_5: 1564705258
+      HackingSpriteSheet_6: -826106482
+      HackingSpriteSheet_7: 1514286548
+      HackingSpriteSheet_8: -232851994
+      HackingSpriteSheet_9: 1414263187
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
